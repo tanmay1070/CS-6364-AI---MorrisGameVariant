@@ -4,8 +4,10 @@ Programming Part:
 Python Environment : 3.9.7
 
 Instructions to run the program:
+
 Step 1: Download the zip folder and extract the folder.
 Step 2: Syntax to be entered in Command Prompt
+
 
 python Python_file.py [input_file1.txt] [output_file2.txt] [depth]
 Eg: python MiniMaxOpening.py "C:\Users\tanmay\OneDrive\Desktop\AI_project\board1.txt" "C:\Users\tanmay\OneDrive\Desktop\AI_project\board2.txt" 3
