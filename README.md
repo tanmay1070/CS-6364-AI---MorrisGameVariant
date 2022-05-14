@@ -5,7 +5,7 @@ Python Environment : 3.9.7
 
 Instructions to run the program:
 
-Step 1: Download the zip folder and extract the folder.
+Step 1: Download the zip folder and extract the folder.\t
 Step 2: Syntax to be entered in Command Prompt
 
 
